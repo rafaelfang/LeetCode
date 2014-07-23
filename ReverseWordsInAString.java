@@ -34,7 +34,7 @@ public class ReverseWordsInAString {
 	}
 
 	public static void main(String[] args) {
-		String s = "    ";
+		String s = " Hello World ";
 		System.out.println(reverseWords(s));
 	}
 }
