@@ -1,8 +1,8 @@
-public class RemoveDuplicates {
+public class removeDuplicates {
 
 	public static void main(String[] args) {
 
-		int[] input = { 1, 2, 2, 3 };//also test {}
+		int[] input = { 1, 2, 2, 3 };
 		System.out.println(removeDuplicates(input));
 	}
 
